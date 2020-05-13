@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="8f66ba46-b4bc-4b51-aa91-08b0c1f31c00" solutionId="8f66ba46-b4bc-4b51-aa91-08b0c1f31c00" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="EvReceiverCalendar">
+    <features>
+        <featureReference itemId="0871a7f7-357c-4041-839f-3c70a9359406" />
+    </features>
+</package>
